@@ -77,7 +77,7 @@ const Index = () => {
                     data-animate="active"
                   >
                     <span>
-                      <b>Zoé</b> Miller{" "}
+                      {data.about.name}{" "}
                     </span>
                   </h1>
                   <div className="label lui-subtitle">
